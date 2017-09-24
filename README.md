@@ -1,7 +1,9 @@
-# Linux-Pirmer
-Linux 基础学习
----
+
+
+# Linux 基础学习
+------
 # 鸟哥的Linux私房菜 - 基础学习篇（第三版）
+
 
 ## 第一部分 Linux的规则与安装
 
